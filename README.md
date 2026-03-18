@@ -60,3 +60,7 @@ python manage.py update_aqi
 - Ensure API keys (if used) are configured in `analytics/settings.py` or environment variables.
 - If adding new cities/lon-lat points, update model migrations then run `migrate` and restart server.
 
+## Contributors
+
+- Milanaht05
+
